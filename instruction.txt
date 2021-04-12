@@ -1,0 +1,4 @@
+setting env config first
+npm i
+npm run watch:js
+npm start
